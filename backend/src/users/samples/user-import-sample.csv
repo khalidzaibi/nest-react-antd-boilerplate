@@ -1,0 +1,5 @@
+userId,name,email,designation,role,status
+0051t00000AA111AAZ,Alice Johnson,alice@example.com,Account Manager,Admin,true
+0051t00000AA112AAZ,Bob Smith,bob@example.com,Support Agent,Support,true
+0051t00000AA113AAZ,Carol Perez,carol@example.com,,Sales,false
+0051t00000AA114AAZ,Danielle Lee,danielle@example.com,IT Specialist,IT,true
